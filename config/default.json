@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://sreejamenon123:fRanny123@contactkeeper-cjgab.mongodb.net/ContactKeeper?retryWrites=true",
+  "jwtSecret": "secret"
+}
